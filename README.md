@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **This repository is archived.** Development continues in the
+> [coding-agent-guardrails](https://github.com/shihchengwei-lab/coding-agent-guardrails)
+> toolkit, where this tool lives at
+> [`agentcam/`](https://github.com/shihchengwei-lab/coding-agent-guardrails/tree/main/agentcam)
+> with its full commit history. Everything here stays available read-only.
+
 # agentcam
 
 [![CI](https://github.com/shihchengwei-lab/agentcam/actions/workflows/ci.yml/badge.svg)](https://github.com/shihchengwei-lab/agentcam/actions/workflows/ci.yml)
